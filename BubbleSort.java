@@ -6,7 +6,7 @@ public class BubbleSort{
         array[j] = temp;
     }
     public static void main (String[] args) {
-        int array[] = {1,2,4,3};
+        int array[] = {4,2,3,1};
         int n = array.length;
         int iteration1 = 0;
         int iteration2 = 0;
