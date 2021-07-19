@@ -1,2 +1,2 @@
 # Bubble-Sort
-A comparison of 2 bubble sort algorithms
+A comparison of 2 bubble sort algorithms in Java
